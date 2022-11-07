@@ -1,6 +1,6 @@
 ---
 title: Tour de Bares
-subtitle: Tour de Bares
+subtitle: El clásico. 3 bares en 1 noche. Tragos y charlas
 layout: default
 modal-id: 1
 date: 2020-01-10
