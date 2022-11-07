@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Tour de Bares
+subtitle: Tour de Bares
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2020-01-10
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: Agosto 2020
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Este es el estilo del primer tipo de evento que realizabamos donde recorríamos 3 bares en una noche, actualmente por lo general vamos a uno pero al final el objetivo es el mismo. Que todos los asistentes puedan compartir un mesa y trago de por medio puedan tener una charla y conocerse.
 
 ---
