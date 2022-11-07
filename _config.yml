@@ -42,6 +42,17 @@ people:
     - title: google-plus
       url: #
       
+- name: Gala Stoyanova
+  pic: 3
+  position: Organizador
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
 - name: Luis Vidal
   pic: 3
   position: Organizador
