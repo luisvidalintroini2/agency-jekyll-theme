@@ -9,9 +9,9 @@ description: "El mejor lugar para conocer gente."
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Andres Arbuet
   pic: 1
-  position: Lead Designer
+  position: Organizador
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Audrey Cicimbra
   pic: 2
-  position: Lead Marketer
+  position: Organizadora
   social:
     - title: twitter
       url: #
@@ -31,9 +31,20 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Gonzalo Samarello
   pic: 3
-  position: Lead Developer
+  position: Organizador
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Luis Vidal
+  pic: 3
+  position: Organizador
   social:
     - title: twitter
       url: #
