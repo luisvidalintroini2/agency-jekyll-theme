@@ -1,6 +1,6 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Festividades extranjeras
+subtitle: Carnaval ruso, día de muertos, halloween, etc.
 layout: default
 modal-id: 3
 date: 2014-07-16
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Aprovechando la existencia de miembros de múltiples nacionalidades, buscamos que puedan organizar eventos relacionado con festividades que habitualmente no festejamos en nuestro país (Uruguay). Esto es una buena forma de conocer a los organizadores de dichos eventos y acercarnos a sus culturas
 
 ---

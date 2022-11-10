@@ -10,6 +10,6 @@ alt: image-alt
 project-date: Agosto 2020
 client: Start Bootstrap
 category: Web Development
-description: Este es el estilo del primer tipo de evento que realizabamos donde recorríamos 3 bares en una noche, actualmente por lo general vamos a uno pero al final el objetivo es el mismo. Que todos los asistentes puedan compartir un mesa y trago de por medio puedan tener una charla y conocerse.
+description: Este es el estilo del primer tipo de evento que realizamos, donde recorríamos 3 bares en una noche, actualmente, por lo general vamos a uno pero al final el objetivo es el mismo. Que todos los asistentes puedan compartir una mesa, tener una charla y conocerse.
 
 ---
