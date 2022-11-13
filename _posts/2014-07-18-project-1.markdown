@@ -1,11 +1,11 @@
 ---
 title: Tour de Bares
-subtitle: El clásico. 3 bares en 1 noche. Tragos y charlas
+subtitle: Recorremos bares en una noche, compartimos mesa y nos conocemos.
 layout: default
 modal-id: 1
 date: 2020-01-10
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: bares.png
+thumbnail: bares.png
 alt: image-alt
 project-date: Agosto 2020
 client: Start Bootstrap

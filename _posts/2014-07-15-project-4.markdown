@@ -1,11 +1,11 @@
 ---
-title: Juegos de mesa
-subtitle: Website Design
+title: Juegos de mesa/Videojuegos
+subtitle: Jugamos todo lo jugable tanto virtual como físico
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: videojuegos.png
+thumbnail: videojuegos.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

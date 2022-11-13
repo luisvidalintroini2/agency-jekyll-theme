@@ -43,7 +43,7 @@ people:
       url: #
       
 - name: Gala Stoyanova
-  pic: 3
+  pic: 4
   position: Organizador
   social:
     - title: twitter
@@ -54,8 +54,8 @@ people:
       url: #
       
 - name: Luis Vidal
-  pic: 3
-  position: Organizador
+  pic: 5
+  position: Pureba
   social:
     - title: twitter
       url: #

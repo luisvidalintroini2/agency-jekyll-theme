@@ -1,11 +1,11 @@
 ---
 title: Noches de Karaoke
-subtitle: Un lugar para desafinar y divertirse
+subtitle: Cantamos nuestras canciones favoritas mientras nos conocemos.
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: karaoke.png
+thumbnail: karaoke.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

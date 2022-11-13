@@ -1,11 +1,11 @@
 ---
 title: Festividades extranjeras
-subtitle: Carnaval ruso, día de muertos, halloween, etc.
+subtitle: Festejos exóticos que habitualmente no encontramos en Montevideo.
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: festividades.png
+thumbnail: festividades.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
