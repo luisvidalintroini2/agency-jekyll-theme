@@ -70,6 +70,8 @@ social:
     url: https://www.instagram.com/tourdebaresmvd/
   - title: facebook
     url: https://www.facebook.com/tourdebaresmvd/
+  - title: whatsapp
+    url: https://chat.whatsapp.com/HduorolIGhVCZ4aVSW5TEC
 
 # Build settings
 markdown: kramdown
